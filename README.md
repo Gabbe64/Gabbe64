@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Gabriele 👋
+- I'm currently a student in computer engineering curriculum Cloud and computer networks @ Politecnico di Torino
 
 <!--
 **Gabbe64/Gabbe64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
